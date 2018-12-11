@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Joshua Chanin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating a program that uses a website's API to retrieve infromation about movies searched by the user.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jrc16c.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what an API is.
+2. I learned how to request a personalized API from this movie website.
+3. I learned how use an API to retrieve info for the user.
+4. I learned how to use DOM element to retrieve information usint the API.
+5. I learned how to use JSON HTTP to retrieve information using the API.
